@@ -25,7 +25,7 @@
 
 - [Resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
 
-<h2>:star_struck: Conferences & Presentations</h2>
+<h2>:sparkles: Conferences & Presentations</h2>
 <h3>Minnesota Power Systems Conference Saint Paul/Nov 2024</h3>
 
 - [MIPSYCON](https://ccaps.umn.edu/minnesota-power-systems-conference)
