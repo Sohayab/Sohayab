@@ -27,7 +27,7 @@
 
 <h2>:star_struck: Conferences & Presentations</h2>
 
-- [Checkout Pictures](https://symposium.foragerone.com/2023-posters-at-st-paul/presentations/50728)
+- [Symposium](https://symposium.foragerone.com/2023-posters-at-st-paul/presentations/50728)
 <h2>:handshake: Volunteer</h2>
 
 - [Checkout Pictures](https://github.com/Sohayab/Resume-Info-Docs/wiki/Volunteer)
