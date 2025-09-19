@@ -15,7 +15,7 @@
   - [Active Directory Bulk User Creation](https://github.com/)
   - [FIM (File Integrity Monitor)](https://github.com/)
 - <b>Design and Application of a Current Feedback Operational Amplifier (CFOA)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/)
   - [Keylogger with Email Capability](https://github.com/)
 - <b>Python</b>
