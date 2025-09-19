@@ -3,7 +3,7 @@
 
 <h1>Hi, I'm Suhaib! <br/><a href="https://github.com/Sohayab">Designer</a>, <a href="https://www.linkedin.com/in/suhaib-abugdera/">Electrical Engineer</a>, <a href="">Adventurer</a></h1>
 
-<h2>👨‍💻 Undergraduate EE Projects:</h2>
+<h2>👨‍💻 Undergraduate EE Projects and Class Papers:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/)
