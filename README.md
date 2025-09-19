@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1>Hi, I'm Suhaib! <br/><a href="https://www.linkedin.com/in/suhaib-abugdera/">Electrical Engineer</a>, <a Desinger</a>
+<h1>Hi, I'm Suhaib! <br/><a href="https://www.linkedin.com/in/suhaib-abugdera/">Electrical Engineer</a> <a Desinger</a>
 
 <h2>👨‍💻 Undergraduate EE Projects and Class Papers:</h2>
 
