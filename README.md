@@ -27,7 +27,7 @@
 
 <h2>📺 Volunteer</h2>
 
-- [Resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
+- [Resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Volunteer)
 
 <h2> 🤳 Connect with me:</h2>
 
