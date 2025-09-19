@@ -29,6 +29,10 @@
 
 - [Resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
 
+  <h2>📔 Courses and Training</h2>
+
+- [List from resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Education)
+
 <h2>:sparkles: Conferences & Presentations</h2>
 <h3>Minnesota Power Systems Conference Saint Paul/Nov 2024</h3>
 
