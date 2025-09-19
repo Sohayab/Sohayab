@@ -23,7 +23,7 @@
 
 <h2>📺 Relevent Experience</h2>
 
-- [Is WGU Legit?](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
+- [Resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
 
 <h2> 🤳 Connect with me:</h2>
 
