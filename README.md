@@ -21,6 +21,10 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/j)
 
+<h2>🏫 Education</h2>
+
+- [List from resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Education)
+  
 <h2>:zap: Relevent Experience</h2>
 
 - [Resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
