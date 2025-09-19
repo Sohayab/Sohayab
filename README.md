@@ -3,7 +3,7 @@
 
 <h1>Hi, I'm Suhaib! <br/><a href="https://github.com/Sohayab">Designer</a>, <a href="https://www.linkedin.com/in/suhaib-abugdera/">Electrical Engineer</a>, <a href="">Adventurer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Undergraduate EE Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/)
@@ -21,9 +21,9 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/j)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Relevent Experience</h2>
 
-- [Is WGU Legit?](https://www.)
+- [Is WGU Legit?](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
 
 <h2> 🤳 Connect with me:</h2>
 
