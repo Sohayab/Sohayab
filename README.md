@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1>Hi, I'm Suhaib! <br/><a href="https://github.com/Sohayab">Designer</a>, <a href="https://www.linkedin.com/in/suhaib-abugdera/">Electrical Engineer</a>, <a href="">Adventurer</a></h1>
+<h1>Hi, I'm Suhaib! <br/><a href="https://github.com/Sohayab">Student</a>, <a href="https://www.linkedin.com/in/suhaib-abugdera/">Electrical Engineer</a>, <a href="">Adventurer</a></h1>
 
 <h2>👨‍💻 Undergraduate EE Projects and Class Papers:</h2>
 
