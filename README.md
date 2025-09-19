@@ -29,7 +29,7 @@
 
 - [Resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
 
-  <h2>📔 Courses and Training</h2>
+<h2>📔 Courses and Training</h2>
 
 - [List from resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Education)
 
