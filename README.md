@@ -5,16 +5,16 @@
 
 <h2>👨‍💻 Undergraduate EE Projects and Class Papers:</h2>
 
-- <b>1.	Design a DC-DC IC Buck Converter Power Supply </b>
+- <b>Design a DC-DC IC Buck Converter Power Supply </b>
   - [Praciting DS & Algos in Python](https://github.com/)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Real-time Digital Signal Processing using FIR filter, Wireless Digital Oscilloscope, and Spectral Analyzer</b>
   - [Image Analysis Middleware](https://github.com/j) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
   - [JWipe (Disk Wiping Utility)](https://github.com/)
   - [Active Directory Bulk User Creation](https://github.com/)
   - [FIM (File Integrity Monitor)](https://github.com/)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Design and Application of a Current Feedback Operational Amplifier (CFOA)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/)
   - [Keylogger with Email Capability](https://github.com/)
