@@ -31,7 +31,7 @@
 
 <h2>📔 Courses and Training</h2>
 
-- [List from resume & Certificates](https://github.com/Sohayab/Resume-Info-Docs/wiki/Courses-and-Training)
+- [List from resume & Certificates 'PDF'](https://github.com/Sohayab/Resume-Info-Docs/wiki/Courses-and-Training)
 
 <h2>:sparkles: Conferences & Presentations</h2>
 <h3>Minnesota Power Systems Conference Saint Paul/Nov 2024</h3>
