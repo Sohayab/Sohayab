@@ -21,11 +21,11 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/j)
 
-<h2>📺 Relevent Experience</h2>
+<h2>:zap: Relevent Experience</h2>
 
 - [Resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
 
-<h2>📺 Volunteer</h2>
+<h2> Volunteer</h2>
 
 - [Resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Volunteer)
 
