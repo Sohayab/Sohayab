@@ -26,8 +26,13 @@
 - [Resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
 
 <h2>:star_struck: Conferences & Presentations</h2>
+<h3>Minnesota Power Systems Conference Saint Paul/Nov 2024</h3>
+
+- [MIPSYCON](https://ccaps.umn.edu/minnesota-power-systems-conference)
+<h3>State Capitol Presentation Saint Paul/Mar 2023</h3>
 
 - [Symposium](https://symposium.foragerone.com/2023-posters-at-st-paul/presentations/50728)
+  
 <h2>:handshake: Volunteer</h2>
 
 - [Checkout Pictures](https://github.com/Sohayab/Resume-Info-Docs/wiki/Volunteer)
