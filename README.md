@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 Undergraduate EE Projects and Class Papers:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>1.	Design a DC-DC IC Buck Converter Power Supply </b>
   - [Praciting DS & Algos in Python](https://github.com/)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/j) <b><i>(Potentially NSFW)</b></i>
