@@ -15,7 +15,10 @@
 
 - <b>Power Management System Design for Power Supply and Battery Charger Controller</b>
   - [Senior Design Progress Report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Power-Management-System-Design-for-Power-Supply-and-Battery-Charger-Controller)
-
+    
+- <b>Capstone: Real-Time Sensor Network Monitoring with SmartMesh IP</b>
+  - [Senior Design Progress Report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Power-Management-System-Design-for-Power-Supply-and-Battery-Charger-Controller)
+    
 <h2>🏫 Education</h2>
 
 - [List from resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Education)
