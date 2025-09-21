@@ -9,11 +9,7 @@
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-a-DC%E2%80%90DC-IC-Buck-Converter-Power-Supply)
 - <b>Real-time Digital Signal Processing using FIR filter, Wireless Digital Oscilloscope, and Spectral Analyzer</b>
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90time-Digital-Signal-Processing-using-FIR-filter,-Wireless-Digital-Oscilloscope,-and-Spectral-Analyzer) <b>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
-  - [JWipe (Disk Wiping Utility)](https://github.com/)
-  - [Active Directory Bulk User Creation](https://github.com/)
-  - [FIM (File Integrity Monitor)](https://github.com/)
+
 - <b>Design and Application of a Current Feedback Operational Amplifier (CFOA)</b>
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
 
