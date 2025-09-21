@@ -13,8 +13,8 @@
 - <b>Design and Application of a Current Feedback Operational Amplifier (CFOA)</b>
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
 
-- <b>XXXX</b>
-  - [Package Delivery Application (Proj Demo)](https://github.com/j)
+- <b>Power Management System Design for Power Supply and Battery Charger Controller</b>
+  - [Senior Design Progress Report)](https://github.com/j)
 
 <h2>🏫 Education</h2>
 
