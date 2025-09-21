@@ -6,7 +6,7 @@
 <h2>👨‍💻 Undergraduate EE Projects and Class Papers:</h2>
 
 - <b>Design a DC-DC IC Buck Converter Power Supply </b>
-  - [Praciting DS & Algos in Python](https://github.com/)
+  - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-a-DC%E2%80%90DC-IC-Buck-Converter-Power-Supply)
 - <b>Real-time Digital Signal Processing using FIR filter, Wireless Digital Oscilloscope, and Spectral Analyzer</b>
   - [Image Analysis Middleware](https://github.com/j) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -15,7 +15,7 @@
   - [Active Directory Bulk User Creation](https://github.com/)
   - [FIM (File Integrity Monitor)](https://github.com/)
 - <b>Design and Application of a Current Feedback Operational Amplifier (CFOA)</b>
-  - [Project Link (Report)](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
+  - [Project Report Link)](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/j)
