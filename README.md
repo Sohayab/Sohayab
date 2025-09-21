@@ -13,8 +13,8 @@
 - <b>Design and Application of a Current Feedback Operational Amplifier (CFOA)</b>
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/j)
+- <b>XXXX</b>
+  - [Package Delivery Application (Proj Demo)](https://github.com/j)
 
 <h2>🏫 Education</h2>
 
