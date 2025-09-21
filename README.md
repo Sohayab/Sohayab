@@ -14,7 +14,7 @@
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
 
 - <b>Power Management System Design for Power Supply and Battery Charger Controller</b>
-  - [Senior Design Progress Report)](https://github.com/j)
+  - [Senior Design Progress Report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Power-Management-System-Design-for-Power-Supply-and-Battery-Charger-Controller)
 
 <h2>🏫 Education</h2>
 
