@@ -18,6 +18,9 @@
     
 - <b>Capstone: Real-Time Sensor Network Monitoring with SmartMesh IP</b>
   - [Senior Design Progress Report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90Time-Sensor-Network-Monitoring-with-SmartMesh-IP)
+  
+- <b>Research: Investigating the Impact of Ambient Temperature on MOSFET in BUCK Converters, SEPIC Converters, and Power Supply PCB Board </b>
+  - [Unpublished manuscript link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90Time-Sensor-Network-Monitoring-with-SmartMesh-IP)
     
 <h2>🏫 Education</h2>
 
