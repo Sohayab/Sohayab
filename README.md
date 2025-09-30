@@ -3,7 +3,7 @@
 
 <h1>Hi, I'm Suhaib! <br/><a href="https://www.linkedin.com/in/suhaib-abugdera/">Electrical Engineering</a> <a Desinger</a>
 
-<h2>👨‍💻 Undergraduate EE Projects and Class Papers:</h2>
+<h2>👨‍💻 Undergraduate EE Research, Projects, and Class Papers:</h2>
 
 - <b>Power Management System Design for Power Supply and Battery Charger Controller</b>
   - [Link to the report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Power-Management-System-Design-for-Power-Supply-and-Battery-Charger-Controller)
