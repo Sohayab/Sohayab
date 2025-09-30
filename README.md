@@ -5,6 +5,9 @@
 
 <h2>👨‍💻 Undergraduate EE Projects and Class Papers:</h2>
 
+- <b>Power Management System Design for Power Supply and Battery Charger Controller</b>
+  - [Link to the report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Power-Management-System-Design-for-Power-Supply-and-Battery-Charger-Controller)
+
 - <b>Design a DC-DC IC Buck Converter Power Supply </b>
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-a-DC%E2%80%90DC-IC-Buck-Converter-Power-Supply)
 - <b>Real-time Digital Signal Processing using FIR filter, Wireless Digital Oscilloscope, and Spectral Analyzer</b>
@@ -12,9 +15,6 @@
 
 - <b>Design and Application of a Current Feedback Operational Amplifier (CFOA)</b>
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
-
-- <b>Power Management System Design for Power Supply and Battery Charger Controller</b>
-  - [Link to the report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Power-Management-System-Design-for-Power-Supply-and-Battery-Charger-Controller)
     
 - <b>Capstone: Real-Time Sensor Network Monitoring with SmartMesh IP</b>
   - [Senior Design Progress Report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90Time-Sensor-Network-Monitoring-with-SmartMesh-IP)
