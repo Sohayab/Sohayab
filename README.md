@@ -10,9 +10,7 @@
 
 - <b>Design a DC-DC IC Buck Converter Power Supply </b>
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-a-DC%E2%80%90DC-IC-Buck-Converter-Power-Supply)
-- <b>Real-time Digital Signal Processing using FIR filter, Wireless Digital Oscilloscope, and Spectral Analyzer</b>
-  - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90time-Digital-Signal-Processing-using-FIR-filter,-Wireless-Digital-Oscilloscope,-and-Spectral-Analyzer) <b>
-
+ 
 - <b>Design and Application of a Current Feedback Operational Amplifier (CFOA)</b>
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
     
@@ -21,6 +19,10 @@
   
 - <b>Research: Investigating the Impact of Ambient Temperature on MOSFET in BUCK Converters, SEPIC Converters, and Power Supply PCB Board </b>
   - [Unpublished manuscript link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90Time-Sensor-Network-Monitoring-with-SmartMesh-IP)
+  
+- <b>Real-time Digital Signal Processing using FIR filter, Wireless Digital Oscilloscope, and Spectral Analyzer</b>
+  - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90time-Digital-Signal-Processing-using-FIR-filter,-Wireless-Digital-Oscilloscope,-and-Spectral-Analyzer) <b>
+
     
 <h2>🏫 Education</h2>
 
