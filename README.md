@@ -6,9 +6,9 @@
 <h2>👨‍💻 Undergraduate EE Research, Projects, and Class Papers:</h2>
 
 - <b>Power Management System Design for Power Supply and Battery Charger Controller</b>
-  - [Link to the report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Power-Management-System-Design-for-Power-Supply-and-Battery-Charger-Controller)
-  - [Link to the report](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Power%20Management%20System%20Design%20for%20Power%20Supply%20and%20Battery%20Charger%20Controller.pdf)
-  
+  - [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Power%20Management%20System%20Design%20for%20Power%20Supply%20and%20Battery%20Charger%20Controller.pdf)
+  - [Link to project pictures](https://github.com/Sohayab/Resume-Info-Docs/wiki/Power-Management-System-Design-for-Power-Supply-and-Battery-Charger-Controller)
+      
 - <b>Design a DC‐DC IC Buck Converter Power Supply</b>
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-a-DC%E2%80%90DC-IC-Buck-Converter-Power-Supply)
  
