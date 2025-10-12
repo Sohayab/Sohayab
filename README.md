@@ -7,6 +7,7 @@
 
 - <b>Power Management System Design for Power Supply and Battery Charger Controller</b>
   - [Link to the report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Power-Management-System-Design-for-Power-Supply-and-Battery-Charger-Controller)
+https://sohayab.github.io/resume-info-docs/Power.Management.System.Design.for.Power.Supply.and.Battery.Charger.Controller.pdf
   
 - <b>Design a DC‐DC IC Buck Converter Power Supply</b>
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-a-DC%E2%80%90DC-IC-Buck-Converter-Power-Supply)
