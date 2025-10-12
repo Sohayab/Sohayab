@@ -19,7 +19,7 @@
   - [Senior Design Progress Report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90Time-Sensor-Network-Monitoring-with-SmartMesh-IP)
   
 - <b>Research: Investigating the Impact of Ambient Temperature on MOSFET in BUCK Converters, SEPIC Converters, and Power Supply PCB Board </b>
-  - [Unpublished manuscript link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90Time-Sensor-Network-Monitoring-with-SmartMesh-IP)
+  - [Unpublished manuscript link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Investigating-the-Impact-of-Ambient-Temperature-on-MOSFET-in-BUCK-Converters,-SEPIC-Converters,-and-Power-Supply-PCB-Board-(Unpublished))
   
 - <b>Real-time Digital Signal Processing using FIR filter, Wireless Digital Oscilloscope, and Spectral Analyzer</b>
   - [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Real-Time%20Sensor%20Network%20Monitoring%20with%20Final%20Report.pdf)
