@@ -11,23 +11,23 @@
       
 - <b>Design a DC‐DC IC Buck Converter Power Supply</b>
   - [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Design%20a%20DC-DC%20IC%20Buck%20Converter%20Power%20Supply%20from%20an%20input%20transformer%2012048%20VRMS.pdf)
-  - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-a-DC%E2%80%90DC-IC-Buck-Converter-Power-Supply)
+  - [Project Report Text](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-a-DC%E2%80%90DC-IC-Buck-Converter-Power-Supply)
  
 - <b>Design and Application of a Current Feedback Operational Amplifier (CFOA)</b>
   - [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Design%20and%20Application%20of%20a%20Current%20Feedback%20Operational%20Amplifier%20(CFOA).pdf)
-  - [Project Report text](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
+  - [Project Report Text](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
     
 - <b>Capstone: Real-Time Sensor Network Monitoring with SmartMesh IP</b>
   - [View Senior Design PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Real-Time%20Sensor%20Network%20Monitoring%20with%20Final%20Report.pdf)
-  - [Senior Design text](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90Time-Sensor-Network-Monitoring-with-SmartMesh-IP)
+  - [Senior Design Text](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90Time-Sensor-Network-Monitoring-with-SmartMesh-IP)
   
 - <b>Research: Investigating the Impact of Ambient Temperature on MOSFET in BUCK Converters, SEPIC Converters, and Power Supply PCB Board </b>
   - [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Investigating%20the%20Impact%20of%20Ambient%20Temperature%20on%20MOSFET%20in%20BUCK%20Converters%2C%20SEPIC%20Converters%2C%20and%20Power%20Supply%20PCB%20Board%20_TRANS-JOUR_Draft.pdf)
-  - [manuscript text](https://github.com/Sohayab/Resume-Info-Docs/wiki/Investigating-the-Impact-of-Ambient-Temperature-on-MOSFET-in-BUCK-Converters,-SEPIC-Converters,-and-Power-Supply-PCB-Board-(Unpublished))
+  - [Manuscript Text](https://github.com/Sohayab/Resume-Info-Docs/wiki/Investigating-the-Impact-of-Ambient-Temperature-on-MOSFET-in-BUCK-Converters,-SEPIC-Converters,-and-Power-Supply-PCB-Board-(Unpublished))
   
 - <b>Real-time Digital Signal Processing using FIR filter, Wireless Digital Oscilloscope, and Spectral Analyzer</b>
   - [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Real-time%20Digital%20Signal%20Processing%20using%20FIR%20filter%2C%20Wireless%20Digital%20Oscilloscope%2C%20and%20Spectral%20Analyzer.pdf)
-  - [Project Report text](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90time-Digital-Signal-Processing-using-FIR-filter,-Wireless-Digital-Oscilloscope,-and-Spectral-Analyzer) <b>
+  - [Project Report Text](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90time-Digital-Signal-Processing-using-FIR-filter,-Wireless-Digital-Oscilloscope,-and-Spectral-Analyzer) <b>
 
     
 <h2>🏫 Education</h2>
