@@ -53,6 +53,7 @@
 <h3>State Capitol Presentation Saint Paul/Mar 2023</h3>
 
 - [Symposium](https://symposium.foragerone.com/2023-posters-at-st-paul/presentations/50728)
+- [SCSU News](https://today.stcloudstate.edu/2023/05/01/wireless-sensor-network-project-has-history-of-success-at-scsu/)
   
 <h2>:handshake: Volunteer</h2>
 
