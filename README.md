@@ -61,7 +61,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Sohayab | YouTube" " />][youtube]
+[NA for now<img align="left" alt="Sohayab | YouTube" " />][youtube]
 
 
 [linkedin]: https://www.linkedin.com/in/suhaib-abugdera/
