@@ -40,7 +40,7 @@
   
 <h2>:zap: Relevent Experience</h2>
 
-- [Resume](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
+- [List from resume Pictures & Some Certificates 'PDF'](https://github.com/Sohayab/Resume-Info-Docs/wiki/Experiences)
 
 <h2>📔 Courses and Training</h2>
 
