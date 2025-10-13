@@ -13,7 +13,8 @@
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-a-DC%E2%80%90DC-IC-Buck-Converter-Power-Supply)
  
 - <b>Design and Application of a Current Feedback Operational Amplifier (CFOA)</b>
-  - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
+  - [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Design%20and%20Application%20of%20a%20Current%20Feedback%20Operational%20Amplifier%20(CFOA).pdf)
+  - [Project Report text](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-and-Application-of-a-Current-Feedback-Operational-Amplifier-(CFOA))
     
 - <b>Capstone: Real-Time Sensor Network Monitoring with SmartMesh IP</b>
   - [Senior Design Progress Report](https://github.com/Sohayab/Resume-Info-Docs/wiki/Real%E2%80%90Time-Sensor-Network-Monitoring-with-SmartMesh-IP)
