@@ -4,7 +4,7 @@
 <h1>Hi, I'm Suhaib! <br/><a href="https://www.linkedin.com/in/suhaib-abugdera/">Electrical Engineering</a> <a Desinger</a>
 <h2> Resume</h2>
 
-- [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Design%20and%20Application%20of%20a%20Current%20Feedback%20Operational%20Amplifier%20(CFOA).pdf)
+- [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Resume_Suhaib.pdf)
 
   
 <h2>👨‍💻 Undergraduate EE Research, Projects, and Class Papers:</h2>
