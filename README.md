@@ -10,6 +10,7 @@
   - [Link to project pictures](https://github.com/Sohayab/Resume-Info-Docs/wiki/Power-Management-System-Design-for-Power-Supply-and-Battery-Charger-Controller)
       
 - <b>Design a DC‐DC IC Buck Converter Power Supply</b>
+  - [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Design%20a%20DC-DC%20IC%20Buck%20Converter%20Power%20Supply%20from%20an%20input%20transformer%2012048%20VRMS.pdf)
   - [Project Report Link](https://github.com/Sohayab/Resume-Info-Docs/wiki/Design-a-DC%E2%80%90DC-IC-Buck-Converter-Power-Supply)
  
 - <b>Design and Application of a Current Feedback Operational Amplifier (CFOA)</b>
