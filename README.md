@@ -47,7 +47,7 @@
 - [List from resume & Certificates 'PDF'](https://github.com/Sohayab/Resume-Info-Docs/wiki/Courses-and-Training)
 
 <h2>📔 License and Exams</h2>
-- [Exam Certificate 'PDF'](https://github.com/Sohayab/Resume-Info-Docs/blob/main/FE_Electrical_Computer_NCEES%20Result%20Verification.pdf)
+- [Exam Certificate 'PDF'](https://github.com/Sohayab/Resume-Info-Docs/wiki/License-and-Exams)
 
 <h2>:sparkles: Conferences & Presentations</h2>
 <h3>Minnesota Power Systems Conference Saint Paul/Nov 2024</h3>
