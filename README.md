@@ -46,7 +46,8 @@
 
 - [List from resume & Certificates 'PDF'](https://github.com/Sohayab/Resume-Info-Docs/wiki/Courses-and-Training)
 
-<a>🪪 License and Exams</h2>
+<h2>🪪 License and Exams</h2>
+
 - [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/FE_Electrical_Computer_NCEES%20Result%20Verification.pdf)
 
 <h2>:sparkles: Conferences & Presentations</h2>
