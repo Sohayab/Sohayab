@@ -5,7 +5,7 @@
 <h2> Resume</h2>
 
 - [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Resume_Suhaib.pdf)
-<h2>📰 SCSU NEWS</h2>
+<h2>📰 SCSU NEWS </h2>
   - [SCSU News](https://today.stcloudstate.edu/2023/05/01/wireless-sensor-network-project-has-history-of-success-at-scsu/)
   
 <h2>👨‍💻 Undergraduate EE Research, Projects, and Class Papers:</h2>
