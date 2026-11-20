@@ -2,9 +2,7 @@
 
 
 <h1>Hi, I'm Suhaib! <br/><a href="https://www.linkedin.com/in/suhaib-abugdera/">Electrical Engineering</a> <a Desinger</a>
-<h2> Resume</h2>
 
-- [View PDF File](https://github.com/Sohayab/Resume-Info-Docs/blob/main/Resume_Suhaib.pdf)
   
 <h2>📰 SCSU NEWS </h2>
 
